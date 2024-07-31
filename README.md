@@ -14,7 +14,4 @@ Skills:  REACT / JS / HTML / CSS / TAIWINDCSS /  NODEJS / MONGODB
 - 💬 Ask me about i am a frontend and backend developer 
 - 📫 How to reach me: $50 
 
- 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdriaz60000)  
 
