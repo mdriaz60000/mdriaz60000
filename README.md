@@ -14,18 +14,7 @@ Skills:  REACT / JS / HTML / CSS / TAIWINDCSS /  NODEJS / MONGODB
 - 💬 Ask me about i am a frontend and backend developer 
 - 📫 How to reach me: $50 
 
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdriaz60000)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdriaz60000)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdriaz60000&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mdriaz60000/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/mdriaz60000)  
+ 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdriaz60000)  
 
