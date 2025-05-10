@@ -1,4 +1,4 @@
-![I am a web developer](https://i.ibb.co/0XGP383/Untitled-design.png)
+![I am a web developer](https://i.ibb.co.com/23xNzKgg/Black-Modern-Personal-Linked-In-Banner.png)
 
 ### Hi there 👋, my name is MOHAMMAD RIAZ
 #### I am a web developer
