@@ -23,7 +23,14 @@ I build robust, scalable web applications with modern technologies. Passionate a
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=flat)
 
-### DevOps & Tools
+### Design & Deployment
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?logo=adobe-xd&logoColor=white&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
+
+### AI & DevOps
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?logo=openai&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
@@ -39,7 +46,10 @@ I build robust, scalable web applications with modern technologies. Passionate a
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](your-twitter-url)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white&style=flat)](your-portfolio-url)
 
-
+## 💻 Latest Projects
+- [Project 1](https://github.com/yourusername/project1) - Short description
+- [Project 2](https://github.com/yourusername/project2) - Short description
+- [Project 3](https://github.com/yourusername/project3) - Short description
 
 ## ⚡ Fun Fact
 I'm secretly a superhero... but don't tell anyone!
