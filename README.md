@@ -15,9 +15,14 @@ I build robust, scalable web applications with modern technologies. Passionate a
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
-### Backend
+### Backend & Runtimes
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Bun](https://img.shields.io/badge/-Bun-000000?logo=bun&logoColor=white&style=flat)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+
+### Package Managers
+![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=flat)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
