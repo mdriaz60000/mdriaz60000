@@ -39,14 +39,7 @@ I build robust, scalable web applications with modern technologies. Passionate a
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](your-twitter-url)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white&style=flat)](your-portfolio-url)
 
-## 💻 Latest Projects
-- [Project 1](https://github.com/yourusername/project1) - Short description
-- [Project 2](https://github.com/yourusername/project2) - Short description
-- [Project 3](https://github.com/yourusername/project3) - Short description
 
-## 📝 Latest Blog Posts
-- [Post 1](your-blog-url) - Short description
-- [Post 2](your-blog-url) - Short description
 
 ## ⚡ Fun Fact
 I'm secretly a superhero... but don't tell anyone!
