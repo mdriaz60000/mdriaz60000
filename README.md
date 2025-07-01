@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![I am a web developer](https://ibb.co/8gw7CZdc)
+![My github banner image](https://i.ibb.co/MkHCv0G6/github-bannar.png)
 
 # 💫 About Me:
 Hi there! I'm **Mohammad Riaz** — a passionate Web Developer focused on **Full Stack Development**.  
