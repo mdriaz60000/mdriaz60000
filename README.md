@@ -47,22 +47,12 @@ I love to build, break, and teach things. If you're into clean code and beautifu
 
 ---
 
-## 🔥 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white&style=flat)](your-portfolio-url)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/riaz60000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-riaz-56z84) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadriaz60000@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white&style=flat)](https://portfolio-seven-brown-44.vercel.app/)
 
 ---
 
-## ⚡ Fun Fact
-
-I'm secretly a superhero... but don't tell anyone! 🦸‍♂️
 
