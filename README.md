@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![I am a web developer](https://i.ibb.co.com/23xNzKgg/Black-Modern-Personal-Linked-In-Banner.png)
+![I am a web developer](https://ibb.co/8gw7CZdc)
 
 # 💫 About Me:
 Hi there! I'm **Mohammad Riaz** — a passionate Web Developer focused on **Full Stack Development**.  
