@@ -1,9 +1,10 @@
-# Hi there 👋, I'm MOHAMMAD RIAZ
-### Full Stack Developer | JavaScript Enthusiast | Problem Solver
 
 ![I am a web developer](https://i.ibb.co.com/23xNzKgg/Black-Modern-Personal-Linked-In-Banner.png)
 
-I build robust, scalable web applications with modern technologies. Passionate about creating elegant solutions to complex problems.
+# 💫 About Me:
+Hi there! I'm Mohammad Riaz. I'm a passionate Web Developer with a strong focus on Full Stack Development. I love sharing what I know teaching. If you want to learn more about what I do, you can follow me. Outside of coding
+
+
 
 ## 🛠️ Technologies & Tools
 
