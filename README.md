@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![My github banner image](https://i.ibb.co/MkHCv0G6/github-bannar.png)
+![My github banner image](https://i.ibb.co.com/mVzjGLvG/Black-Modern-Personal-Linked-In-Banner.png)
 
 # 💫 About Me:
 Hi there! I'm **Mohammad Riaz** — a passionate Web Developer focused on **Full Stack Development**.  
