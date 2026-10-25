@@ -51,7 +51,7 @@ I love to build, break, and teach things. If you're into clean code and beautifu
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/riaz60000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-riaz-56z84) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadriaz60000@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white&style=flat)](https://portfolio-seven-brown-44.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white&style=flat)](https://mdriazdev.vercel.app/)
 
 ---
 
